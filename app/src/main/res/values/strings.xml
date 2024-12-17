@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom Fonts</string>
+
+    <string name="hindi">नमस्ते, आप कैसे हैं?</string>
+    <string name="english">Hello, how are you?</string>
+    <string name="japanese">畝ベマオ?</string>
+</resources>
